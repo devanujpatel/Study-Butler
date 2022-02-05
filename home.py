@@ -19,6 +19,7 @@ while ask_input:
 
     if user_input == 1:
         study_logs.my_init()
+
     elif user_input == 4:
         print("Goodbye!")
         break
